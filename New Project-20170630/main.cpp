@@ -17,6 +17,6 @@ class B: public A {
 int main() {
     
     B obj(23);
-	// your code goes here
+	// your code goes here//my code here
 	return 0;
 }
